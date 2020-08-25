@@ -1,0 +1,17 @@
+### Code ###
+.settings/
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### OSX ###
+.DS_Store
+
+### Node ###
+node_modules/
+
+### General ###
+*.log
+*~
