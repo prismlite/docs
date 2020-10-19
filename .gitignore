@@ -1,5 +1,5 @@
-### Development
-workspace/
+### Temporary ###
+
 
 ### Code ###
 .settings/
@@ -8,12 +8,16 @@ workspace/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+*.code-workspace
+
 
 ### OSX ###
 .DS_Store
 
+
 ### Node ###
 node_modules/
+
 
 ### General ###
 *.log
